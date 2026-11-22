@@ -11,7 +11,7 @@
 ## 第 2 步：推送（在本目录打开 Git Bash，逐条粘贴）
 
 ```bash
-cd /c/Users/余星乐/WorkBuddy/2026-10-14-23-18-51/output/portswigger-notes
+cd <你本地仓库的目录>   # 即 portswigger-notes 所在目录
 git init
 git add .
 git commit -m "init: PortSwigger 学习笔记仓库骨架"
